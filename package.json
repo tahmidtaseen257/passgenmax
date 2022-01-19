@@ -1,0 +1,17 @@
+{
+  "name": "passgenmax",
+  "version": "1.0.0",
+  "description": "just a command line tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahmid Ahnaf Taseen",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "figlet": "^1.5.2",
+    "generate-password": "^1.7.0",
+    "log-beautify": "^1.2.0"
+  }
+}
