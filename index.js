@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 //importings
 const app = require("commander");
 const createPassword = require("./tools/createPassword");
